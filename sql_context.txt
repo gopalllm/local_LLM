@@ -7,7 +7,7 @@ Please generate a SQL query based on the user prompt. Ensure that:
 - Weekly aggregation is calculated using YEARWEEK(Timestamp) or similar functions.
 - Column 'MDP01' is used for aggregation unless specified otherwise.
 - Use 'SUM' for aggregation and 'GROUP BY' for grouping.
-- User Prompt must be only any of the column like ‘DENT_MTR1’ or ‘DENT_MTR2’ or  ‘DENT_MTR3’ or  ‘MDP01’ or  ‘MDP02’ or  ‘MDP03’ 
+- User Prompt must be only any of the column like ‘FMT1’ or ‘FMT2’ or  ‘FMT3’ or  ‘ENGMT1’ or  ‘ENGMT2’ or  ‘ENGMT3’ 
 
 
 Example 1:
